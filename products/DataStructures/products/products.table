@@ -1,0 +1,32 @@
+{
+  "tableName":"PRODUCTS",
+  "columns":
+    [
+      {
+        "name":"PRODUCT_ID",
+        "type":"INTEGER",
+        "length":"0",
+        "notNull":"true",
+        "primaryKey":"true",
+        "defaultValue":""
+      }
+      ,
+      {
+        "name":"PRODUCT_NAME",
+        "type":"VARCHAR",
+        "length":"100",
+        "notNull":"false",
+        "primaryKey":"false",
+        "defaultValue":""
+      }
+      ,
+      {
+        "name":"PRODUCT_PRICE",
+        "type":"DOUBLE",
+        "length":"0",
+        "notNull":"false",
+        "primaryKey":"false",
+        "defaultValue":""
+      }
+    ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "location":"/sec/secured_service.js",
+    "roles":
+      [
+        {"role":"PowerUser"}
+      ]
+  }
+]
+
